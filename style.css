@@ -80,10 +80,12 @@ button:active {
 
 .previous-operand {
     color: rgb(99, 99, 99);
+    font-size: 3rem;
 }
 
 .current-operand {
     color: rgb(0, 0, 0);
+    font-size: 3rem;
 }
 
 .rounded-bottom-left {
